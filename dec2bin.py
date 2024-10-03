@@ -6,7 +6,7 @@
 # En esta función se quita el "0b" para dejar el "11"
 # ------------------------------------------------------
 
-#modificación-m1
+#modificación-m1-ejercicio2-mismo archivo
 
 def dec2bin(numero_decimal, numero_bits):
     numero_binario = bin(numero_decimal)

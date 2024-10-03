@@ -4,7 +4,7 @@
 # El número hexadecimal es también un string e.g. "AB5"
 # ------------------------------------------------------
 
-#Modificación de la rama m2
+#Modificación de la rama m2 - ejercicio 2
 
 def TablabinHex(cuatro_digitos_binarios):
     digito_hexadecimal = ""
